@@ -22,12 +22,6 @@ purchases and sales. It is a web-based application implemented using PHP with My
     Username: admin
 	Password: password   
     ```
-3. For Pharmacist Login, refer to the 'emplogin' table in the database. 
-    Example:
-    ```
-    Username: varshini
-	Password: pass7
-    ```
 
 # About the Project
 
@@ -130,9 +124,6 @@ The system is developed for use by either the **Admin** or **Pharmacists**.
 - For major changes, please open an *issue* first to discuss what you would like to change.
 
 *Feel free to contact for any further queries.*
-
-
-
 
 
 # DatabaseProject
