@@ -23,6 +23,10 @@ This project is designed to help pharmacies efficiently manage their inventory, 
 	Password: password
 	```
 
+### Demo
+
+For a quick overview of the system, watch the [Demo Video](Project%20Video/DemoView.mp4).
+
 ## About the Project
 
 ### Introduction
@@ -82,3 +86,4 @@ The system is intended for use by **Admins** and **Pharmacists**.
 Feel free to contact us for any further queries.
 
 # DatabaseProject
+
